@@ -1,9 +1,9 @@
 # hexarchitectureexample
 
 Struktura katalogów
-..domain (technological transparent)
-  ..user
-  ..product
+# ..domain (technological transparent)
+#   ..user
+#   ..product
   ..order
   ..log
   ..api(incoming i.e for interfaces that are used as ports in rest controllers)
